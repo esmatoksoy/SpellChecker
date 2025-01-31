@@ -1,0 +1,37 @@
+Incorrect word: appl at line 1, column 20
+Suggestions for 'appl':
+apps
+app
+apple
+apply
+
+Incorrect word: catt at line 1, column 29
+Suggestions for 'catt':
+matt
+watt
+cant
+cart
+cast
+cats
+cat
+cat
+
+Incorrect word: lne at line 2, column 9
+Suggestions for 'lne':
+one
+une
+lee
+lie
+ne
+le
+ln
+lane
+line
+lone
+len
+
+Incorrect word: lovve at line 3, column 25
+Suggestions for 'lovve':
+love
+love
+
